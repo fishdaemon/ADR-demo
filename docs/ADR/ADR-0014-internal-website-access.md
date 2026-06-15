@@ -2,7 +2,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-06-01
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor), Security (M. Sato), IT Operations (D. Berg)
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt), Security (J. Madison), IT Operations (G. Washington)
 - **Supersedes:** [ADR-0005](ADR-0005-corporate-vpn-internal-apps.md) (Require corporate VPN for all internal applications), [ADR-0011](ADR-0011-iap-for-internal-web-access.md) (IAP for internal web access — narrower earlier framing of the same decision)
 - **Related:** [ADR-0009](ADR-0009-iap-tcp-forwarding-private-access.md) (IAP TCP forwarding for engineering access), [ADR-0015](ADR-0015-non-web-resource-access.md) (non-web internal resource access — follow-up draft)
 

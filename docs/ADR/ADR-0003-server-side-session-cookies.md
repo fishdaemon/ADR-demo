@@ -2,7 +2,7 @@
 
 - **Status:** Superseded by [ADR-0007](ADR-0007-api-authentication.md)
 - **Date:** 2024-09-15
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor)
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt)
 
 ## Context
 

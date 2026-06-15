@@ -2,7 +2,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-05-28
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor), Security review (M. Sato)
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt), Security review (J. Madison)
 - **Supersedes:** [ADR-0003](ADR-0003-server-side-session-cookies.md) (Server-side session cookies)
 - **Related:** [ADR-0008](ADR-0008-jwt-signing-key-rotation.md) (JWT signing-key rotation — follow-up covering rotation mechanics)
 

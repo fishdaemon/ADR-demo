@@ -2,7 +2,7 @@
 
 - **Status:** Draft
 - **Date:** 2026-06-01
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor), Security review (M. Sato)
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt), Security review (J. Madison)
 - **Related:** [ADR-0007](ADR-0007-api-authentication.md) (API authentication)
 
 > **Draft** — this is a proposed decision, not yet accepted. Open questions are listed at the

@@ -2,7 +2,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-06-01
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor), Security review (M. Sato)
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt), Security review (J. Madison)
 - **Related:** [ADR-0007](ADR-0007-api-authentication.md) (API authentication), [ADR-0010](ADR-0010-least-privilege-tunnel-scoping.md) (least-privilege scoping of tunnel access), [ADR-0014](ADR-0014-internal-website-access.md) (IAP for internal web access — supersedes [ADR-0011](ADR-0011-iap-for-internal-web-access.md), which this ADR originally referenced)
 
 ## Context

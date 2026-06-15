@@ -2,7 +2,7 @@
 
 - **Status:** Draft
 - **Date:** 2026-06-01
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor), Security (M. Sato), IT Operations (D. Berg)
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt), Security (J. Madison), IT Operations (G. Washington)
 - **Related:** [ADR-0014](ADR-0014-internal-website-access.md) (IAP for internal web access), [ADR-0009](ADR-0009-iap-tcp-forwarding-private-access.md) (IAP TCP forwarding for engineering access)
 
 > **Draft** — this is a proposed decision, not yet accepted. It is the prerequisite for fully

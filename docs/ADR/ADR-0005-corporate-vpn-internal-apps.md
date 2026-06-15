@@ -2,7 +2,7 @@
 
 - **Status:** Superseded by [ADR-0014](ADR-0014-internal-website-access.md)
 - **Date:** 2024-11-20
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor), IT Operations (D. Berg)
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt), IT Operations (G. Washington)
 
 ## Context
 

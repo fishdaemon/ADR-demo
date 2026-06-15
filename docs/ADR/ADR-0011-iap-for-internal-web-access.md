@@ -2,7 +2,7 @@
 
 - **Status:** Superseded by [ADR-0014](ADR-0014-internal-website-access.md)
 - **Date:** 2026-06-01
-- **Deciders:** Platform team (A. Lindqvist, R. Okafor), Security review (M. Sato), IT
+- **Deciders:** Platform team (A. Lincoln, T. Roosevelt), Security review (J. Madison), IT
 - **Related:** [ADR-0009](ADR-0009-iap-tcp-forwarding-private-access.md) (IAP TCP forwarding for engineering access)
 
 ## Context
